@@ -1,0 +1,6 @@
+{
+  "name": "AI-контроль качества поддержки",
+  "description": "Интерактивный демо-стенд агентной системы контроля качества переписок службы поддержки сервиса доставки еды.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
